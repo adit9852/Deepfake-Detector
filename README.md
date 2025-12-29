@@ -12,6 +12,14 @@
 
 <br/>
 
+### 📹 Watch Demo Video
+
+https://github.com/adit9852/Deepfake-Detector/assets/Deepfake.mp4
+
+*See the deepfake detector in action with our Android mobile app*
+
+<br/>
+
 ### 📱 Try the Android App Live
 
 <a href="https://appetize.io/app/b_c275cxdxhlujzoxna3gtemlwfe">
