@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDEs
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+*~
+
+# Android
+DeepfakeDetectorApp/app/build/
+DeepfakeDetectorApp/build/
+DeepfakeDetectorApp/.gradle/
+DeepfakeDetectorApp/local.properties
+DeepfakeDetectorApp/.idea/
+*.iml
+.DS_Store
+
+# Misc
+nul
+temp_uploads/

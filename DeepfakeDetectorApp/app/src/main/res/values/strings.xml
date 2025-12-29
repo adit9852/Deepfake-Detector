@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deepfake Detector</string>
+    <string name="image_tab">Image</string>
+    <string name="video_tab">Video</string>
+    <string name="audio_tab">Audio</string>
+    <string name="select_file">Select File</string>
+    <string name="analyzing">Analyzing...</string>
+    <string name="analysis_complete">Analysis Complete</string>
+    <string name="error_occurred">An error occurred</string>
+</resources>
