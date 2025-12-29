@@ -41,3 +41,9 @@ DeepfakeDetectorApp/.idea/
 # Misc
 nul
 temp_uploads/
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.mkv

@@ -10,6 +10,16 @@
 
 [Features](#features) • [Demo](#demo) • [Installation](#installation) • [Usage](#usage) • [API](#api-reference) • [Architecture](#how-it-works)
 
+<br/>
+
+### 📱 Try the Android App Live
+
+<a href="https://appetize.io/app/b_c275cxdxhlujzoxna3gtemlwfe">
+  <img src="https://img.shields.io/badge/Try%20Live%20Demo-Android%20App-success?style=for-the-badge&logo=android" alt="Try Live Demo">
+</a>
+
+*Experience the Android app directly in your browser - No installation required!*
+
 </div>
 
 ---
@@ -49,8 +59,11 @@ This advanced deepfake detection system combines state-of-the-art deep learning 
 
 ## Demo
 
-### Live Demo
+### 🌐 Web Demo
 Try the detector online: [https://praneshjs-fakevideodetect.hf.space/](https://praneshjs-fakevideodetect.hf.space/)
+
+### 📱 Android App Demo
+Experience the mobile app in your browser: [https://appetize.io/app/b_c275cxdxhlujzoxna3gtemlwfe](https://appetize.io/app/b_c275cxdxhlujzoxna3gtemlwfe)
 
 ### Test Data
 The repository includes sample files for testing:
