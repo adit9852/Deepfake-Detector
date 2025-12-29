@@ -109,10 +109,10 @@ img_model = load_img_modality_model(args)
 
 
 def preprocess_img(face):
-    face = face / 255
+    face = face / 255.0
     face = cv2.resize(face, (256, 256))
-    # face = face.transpose(2, 0, 1) #(W, H, C) -> (C, W, H)
-    face_pt = torch.unsqueeze(torch.Tensor(face), dim = 0) 
+    face = face.transpose(2, 0, 1)  # (H, W, C) -> (C, H, W)
+    face_pt = torch.unsqueeze(torch.Tensor(face), dim = 0)
     return face_pt
 
 def preprocess_audio(audio_file):
